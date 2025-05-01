@@ -1,21 +1,74 @@
-# 💫 About Me:
-Actualmente , estudiando el mundo de la ciberseguridad y estoy estudiando y aprendiendo constantemente<br>
+<h1 align="center">👨‍🚀 Tuch0 | Ciberseguridad Aeroespacial 🚀</h1>
 
+<p align="center">
+  <strong>Analista en ciberseguridad ofensiva • YouTuber técnico • Apasionado del espacio</strong><br>
+  <em>"Hablo de lo que pocos se atreven. Aquí no hay contenido genérico."</em>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tuch0_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuch0) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Tuch0___) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tuch0_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tuch0_) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TUCH0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TUCH0&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TUCH0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TUCH0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.youtube.com/@Tuch0" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-Tuch0-red?style=for-the-badge&logo=youtube" alt="YouTube">
+  </a>
+  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tuch0-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@Tuch0-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TUCH0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 Sobre mí
+
+Soy un apasionado de la **ciberseguridad ofensiva** con una visión clara: llevar el hacking al espacio.  
+En mi canal comparto lo que aprendo mientras me especializo en **ciberseguridad aeroespacial**, participo en retos como **Hack-A-Sat**, y desarrollo herramientas propias.  
+
+🛰️ Aquí no vas a encontrar lo mismo de siempre.  
+🔒 Desde satélites hasta SDRs, Docker Breakouts y mucho más.  
+🎯 Objetivo: ser referente en un campo que está empezando a nacer.
+
+---
+
+## 🧠 Lo que estoy haciendo ahora
+
+- Preparando retos técnicos para **Hack-A-Sat**  
+- Diseñando mi propio **Cyberdeck** con Raspberry Pi  
+- Subiendo vídeos técnicos con un enfoque enigmático y didáctico  
+- Publicando en mi repo educativo: [AeroSpace-Cybersecurity--ESP](https://github.com/Tuch0/AeroSpace-Cybersecurity--ESP)
+
+---
+
+## 🔥 Últimos vídeos en YouTube
+
+<!-- YouTube Feed via GitHub action o manualmente actualizado -->
+
+🎥 **[Nuevo vídeo – La amenaza olvidada en el espacio](https://www.youtube.com/watch?v=ID_DEL_VIDEO)**  
+📅 Subido el 1 de mayo de 2025  
+💬 ¿Y si el espacio no estuviera tan protegido como creemos?
+
+🎥 **[Docker Breakout explicado en 5 minutos](https://www.youtube.com/watch?v=ID_DEL_VIDEO)**  
+📅 Subido el 12 de abril de 2025  
+🛠️ Técnicas reales, con ejemplos prácticos.
+
+---
+
+## 💻 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [AeroSpace-Cybersecurity--ESP](https://github.com/Tuch0/AeroSpace-Cybersecurity--ESP) | Apuntes y recursos de ciberseguridad espacial | Markdown, Obsidian-style |
+| [Cyberdeck Pi](https://github.com/Tuch0/Cyberdeck-Pi) | Montaje de un equipo portátil de hacking SDR | Python, SDR, Raspberry Pi |
+| [Hack-A-Sat Labs](https://github.com/Tuch0/Hack-A-Sat-Writeups) | Writeups de desafíos espaciales | Bash, Ghidra, C |
+
+---
+
+## 📫 Contacto
+
+Si quieres colaborar o tienes alguna duda técnica, puedes escribirme por [LinkedIn](https://www.linkedin.com/in/tu-perfil) o dejarme un comentario en [YouTube](https://www.youtube.com/@Tuch0).
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
