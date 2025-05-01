@@ -1,19 +1,28 @@
 <div align="center">
+  <img src="https://yt3.googleusercontent.com/X2X9_228aaSk4egRxwkaOM0baAxvmXZNtJVOE3ZRnSEjofF-2UXlDpyfd6b7DeB1ovwkZntr2Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Banner de Tuch0" style="max-width: 100%; height: auto; border-radius: 10px;">
+</div>
+
+
+
+
+<div align="center">
   <h1>🛰️ ¡Hola, soy <a href="https://tuch0.com">Tuch0</a>!</h1>
   <h3>🔐 Ciberseguridad | Pentesting | SDR | Espacio</h3>
 </div>
 
 <p align="center">
   <a href="https://www.youtube.com/@tuch0_">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social" alt="YouTube Subscribers">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCp-DL_lWAo61LV0qt58EmyQ?style=social" alt="YouTube Subscribers">
   </a>
-  <a href="https://twitter.com/tuch0_">
-    <img src="https://img.shields.io/twitter/follow/tuch0_?style=social" alt="Twitter Followers">
+  <a href="https://tuch0_">
+    <img src="https://img.shields.io/badge/🌐 Web-Tuch0_-%2300A9F4?style=social" alt="Tuch0 Website">
   </a>
   <a href="https://github.com/Tuch0">
     <img src="https://img.shields.io/github/followers/Tuch0?style=social" alt="GitHub Followers">
   </a>
 </p>
+
+
 
 ---
 
