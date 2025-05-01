@@ -1,65 +1,107 @@
-<h1 align="center">🛰️ Tuch0_</h1>
-<h3 align="center">Ciberseguridad aeroespacial · SDR · Hacking ofensivo</h3>
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-<p align="center">
-  <a href="https://www.youtube.com/@tuch0_">
-    <img src="https://img.shields.io/badge/Youtube-Tuch0_-red?style=for-the-badge&logo=youtube" alt="YouTube">
-  </a>
-  <a href="https://twitter.com/tu_usuario">
-    <img src="https://img.shields.io/badge/Twitter-@Tuch0_-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/tu_perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-Tuch0_-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+
+## Sobre mi
+
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
+- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
+- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
+- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+<br>
+
+## Proyectos *bombitas*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Básico</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
 </p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>
 
----
+<td width="50%">
+               <br>
+<h3 align="center">Arquitectura MVVM</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
-### 👨‍🚀 Sobre mí
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Intermedio</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>       
 
-🛰 Ciberseguridad ofensiva & pentesting  
-💻 HTB · Bug Bounty · Certificaciones: eJPTv2 / LPIC-1  
-📡 Sistemas espaciales, SDR y entorno satelital  
-🎙 Divulgador de ciberseguridad aeroespacial
+<td width="50%">
+<h3 align="center">Curso Kotlin Multiplatform</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
 
-Exploro lo que otros apenas mencionan: seguridad en satélites, hacking espacial y amenazas poco conocidas del entorno orbital.
-
----
-
-### 🎬 Últimos vídeos en YouTube
-
-| Miniatura | Título | Enlace |
-|----------|--------|--------|
-| ![thumb1](https://i.ytimg.com/vi/VIDEO_ID_1/mqdefault.jpg) | **La amenaza olvidada en el espacio** | [Ver en YouTube](https://www.youtube.com/watch?v=VIDEO_ID_1) |
-| ![thumb2](https://i.ytimg.com/vi/VIDEO_ID_2/mqdefault.jpg) | **Docker Breakout explicado** | [Ver en YouTube](https://www.youtube.com/watch?v=VIDEO_ID_2) |
-| ![thumb3](https://i.ytimg.com/vi/VIDEO_ID_3/mqdefault.jpg) | **SDR en Ciberseguridad** | [Ver en YouTube](https://www.youtube.com/watch?v=VIDEO_ID_3) |
-| ![thumb4](https://i.ytimg.com/vi/VIDEO_ID_4/mqdefault.jpg) | **Hack-A-Sat explicado** | [Ver en YouTube](https://www.youtube.com/watch?v=VIDEO_ID_4) |
-
-> ✨ Próximos vídeos sobre amenazas reales en órbita y técnicas avanzadas de pentesting espacial.
-
----
-
-### 🔧 Tech Stack
-
-`Python` `Bash` `GNU/Linux` `SDR` `Ghidra` `SatNOGS` `Docker` `Raspberry Pi`  
-`Hack The Box` · `Bugcrowd` · `Hack-A-Sat`
-
----
-
-### 🚀 Proyectos destacados
-
-- **[AeroSpace-Cybersecurity--ESP](https://github.com/Tuch0_/AeroSpace-Cybersecurity--ESP)**: Apuntes, herramientas y técnicas reales de seguridad espacial.
-- **Cyberdeck Pi**: Estación de pentesting portátil con SDR, ideal para entornos reales.
-- **Writeups & Labs**: Máquinas de HTB, labs personalizados y retos tipo CTF satelital.
-
----
-
-### 📡 Mi misión
-
-Despertar el interés por la seguridad espacial, aportar conocimiento y prepararme para trabajar donde otros no llegan.
-
----
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:1f6feb&height=120&section=footer"/>
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
