@@ -56,7 +56,7 @@ Me apasiona explorar áreas poco convencionales de la ciberseguridad, especialme
         <a href="https://www.youtube.com/watch?v=r6FfaloFxKo&t=4s" target="_blank">
           <img src="https://i.ytimg.com/vi/r6FfaloFxKo/mqdefault.jpg" width="400" alt="La OSCURA realidad DETRÁS de tu NAVEGADOR">
         </a>
-        <p>Exploramos cómo escapar de contenedores Docker y las vulnerabilidades ocultas.</p>
+        <p>Explicamos como un atacante puedo robarte todas las contraseñas del navegador.</p>
       </div>
     </td>
   </tr>
@@ -76,7 +76,7 @@ Me apasiona explorar áreas poco convencionales de la ciberseguridad, especialme
         <a href="http://youtube.com/watch?v=zOKlrj6K1Ks" target="_blank">
           <img src="https://i.ytimg.com/vi/zOKlrj6K1Ks/mqdefault.jpg" width="400" alt="El ARMA SECRETA de google">
         </a>
-        <p>Descubre la amenaza oculta en los satélites y cómo podrían estar usándote.</p>
+        <p>Explicamos como un atacante puedo robarte las cookies y suplantarte la identidad accediendo a tus redes sociales, plataformas de pago...</p>
       </div>
     </td>
   </tr>
