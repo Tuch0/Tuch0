@@ -1,67 +1,65 @@
-<h1 align="center">🛰️ Tuch0_ | Ciberseguridad Aeroespacial</h1>
+<h1 align="center">🛰️ Tuch0_</h1>
+<h3 align="center">Ciberseguridad aeroespacial · SDR · Hacking ofensivo</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@tuch0_" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Tuch0_-red?style=for-the-badge&logo=youtube" alt="YouTube">
+  <a href="https://www.youtube.com/@tuch0_">
+    <img src="https://img.shields.io/badge/Youtube-Tuch0_-red?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tuch0_-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/tuusuario" target="_blank">
+  <a href="https://twitter.com/tu_usuario">
     <img src="https://img.shields.io/badge/Twitter-@Tuch0_-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/tu_perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-Tuch0_-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+### 👨‍🚀 Sobre mí
 
-🛰️ Ciberseguridad ofensiva & pentesting  
-💻 HTB · Bug Bounty · Certs eJPTv2 / LPI  
+🛰 Ciberseguridad ofensiva & pentesting  
+💻 HTB · Bug Bounty · Certificaciones: eJPTv2 / LPIC-1  
 📡 Sistemas espaciales, SDR y entorno satelital  
-🎙️ Divulgador de ciberseguridad
+🎙 Divulgador de ciberseguridad aeroespacial
 
-Soy un apasionado de la ciberseguridad ofensiva con una visión clara: llevar el hacking al espacio.  
-En mi canal comparto lo que aprendo mientras me especializo en ciberseguridad aeroespacial, participo en retos como Hack-A-Sat, y desarrollo herramientas propias.
-
----
-
-## 🔥 Últimos vídeos en YouTube
-
-🎥 [Docker Breakout explicado en 5 minutos](https://www.youtube.com/watch?v=ID_DEL_VIDEO)  
-📅 Subido el 12 de abril de 2025  
-🛠️ Técnicas reales, con ejemplos prácticos.
-
-🎥 [La amenaza olvidada en el espacio](https://www.youtube.com/watch?v=ID_DEL_VIDEO)  
-📅 Subido el 1 de mayo de 2025  
-💬 ¿Y si el espacio no estuviera tan protegido como creemos?
-
-🎥 [Introducción a SDR y su aplicación en ciberseguridad](https://www.youtube.com/watch?v=ID_DEL_VIDEO)  
-📅 Subido el 20 de marzo de 2025  
-📡 Explorando el mundo de la radio definida por software.
-
-🎥 [Hack-A-Sat: Preparación y estrategias](https://www.youtube.com/watch?v=ID_DEL_VIDEO)  
-📅 Subido el 5 de febrero de 2025  
-🚀 Cómo me preparo para uno de los retos más desafiantes.
+Exploro lo que otros apenas mencionan: seguridad en satélites, hacking espacial y amenazas poco conocidas del entorno orbital.
 
 ---
 
-## 💼 Proyectos destacados
+### 🎬 Últimos vídeos en YouTube
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [AeroSpace-Cybersecurity--ESP](https://github.com/Tuch0_/AeroSpace-Cybersecurity--ESP) | Apuntes y recursos de ciberseguridad espacial | Markdown, Obsidian-style |
-| [Cyberdeck Pi](https://github.com/Tuch0_/Cyberdeck-Pi) | Montaje de un equipo portátil de hacking SDR | Python, SDR, Raspberry Pi |
-| [Hack-A-Sat Labs](https://github.com/Tuch0_/Hack-A-Sat-Writeups) | Writeups de desafíos espaciales | Bash, Ghidra, C |
+| Miniatura | Título | Enlace |
+|----------|--------|--------|
+| ![thumb1](https://i.ytimg.com/vi/VIDEO_ID_1/mqdefault.jpg) | **La amenaza olvidada en el espacio** | [Ver en YouTube](https://www.youtube.com/watch?v=VIDEO_ID_1) |
+| ![thumb2](https://i.ytimg.com/vi/VIDEO_ID_2/mqdefault.jpg) | **Docker Breakout explicado** | [Ver en YouTube](https://www.youtube.com/watch?v=VIDEO_ID_2) |
+| ![thumb3](https://i.ytimg.com/vi/VIDEO_ID_3/mqdefault.jpg) | **SDR en Ciberseguridad** | [Ver en YouTube](https://www.youtube.com/watch?v=VIDEO_ID_3) |
+| ![thumb4](https://i.ytimg.com/vi/VIDEO_ID_4/mqdefault.jpg) | **Hack-A-Sat explicado** | [Ver en YouTube](https://www.youtube.com/watch?v=VIDEO_ID_4) |
+
+> ✨ Próximos vídeos sobre amenazas reales en órbita y técnicas avanzadas de pentesting espacial.
 
 ---
 
-## 📫 Contacto
+### 🔧 Tech Stack
 
-Si quieres colaborar o tienes alguna duda técnica, puedes escribirme por [LinkedIn](https://www.linkedin.com/in/tu-perfil) o dejarme un comentario en [YouTube](https://www.youtube.com/@tuch0_).
+`Python` `Bash` `GNU/Linux` `SDR` `Ghidra` `SatNOGS` `Docker` `Raspberry Pi`  
+`Hack The Box` · `Bugcrowd` · `Hack-A-Sat`
+
+---
+
+### 🚀 Proyectos destacados
+
+- **[AeroSpace-Cybersecurity--ESP](https://github.com/Tuch0_/AeroSpace-Cybersecurity--ESP)**: Apuntes, herramientas y técnicas reales de seguridad espacial.
+- **Cyberdeck Pi**: Estación de pentesting portátil con SDR, ideal para entornos reales.
+- **Writeups & Labs**: Máquinas de HTB, labs personalizados y retos tipo CTF satelital.
+
+---
+
+### 📡 Mi misión
+
+Despertar el interés por la seguridad espacial, aportar conocimiento y prepararme para trabajar donde otros no llegan.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:1f6feb&height=120&section=footer"/>
 </p>
