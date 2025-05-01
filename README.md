@@ -42,12 +42,12 @@ Me apasiona explorar áreas poco convencionales de la ciberseguridad, especialme
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Hack-A-Sat explicado</h3>
+      <h3 align="center">Mi EXPERIENCIA con la CERTIFICACIÓN eJPTv2 | Tips y CONSEJOS</h3>
       <div align="center">
         <a href="https://www.youtube.com/watch?v=mQmPekEg9As&t=1s" target="_blank">
           <img src="https://i.ytimg.com/vi/mQmPekEg9As/mqdefault.jpg" width="400" alt="Hack-A-Sat explicado">
         </a>
-        <p>Desafío Hack-A-Sat: seguridad satelital en acción, ¡descubre cómo lo hacemos!</p>
+        <p>Explico como puedes prepararte para una de las primeras certificaciones en este campo que es el eJPTv2.</p>
       </div>
     </td>
     <td width="50%">
