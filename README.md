@@ -57,7 +57,7 @@ Me apasiona explorar áreas poco convencionales de la ciberseguridad, especialme
         <a href="https://www.youtube.com/watch?v=a0KGAHy4tcc&t=5s" target="_blank">
           <img src="https://i.ytimg.com/vi/a0KGAHy4tcc/mqdefault.jpg" width="400" alt="La OSCURA realidad DETRÁS de tu NAVEGADOR">
         </a>
-        <p>Explicamos como un atacante puedo robarte todas las contraseñas del navegador.</p>
+        <p>Introducción de la Ciberseguridad Aeroespacial, algo de lo que casi nadie habla y se le deberia de dar la importancia que relamente tiene...</p>
       </div>
     </td>
   </tr>
