@@ -51,10 +51,11 @@ Me apasiona explorar áreas poco convencionales de la ciberseguridad, especialme
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">La OSCURA realidad DETRÁS de tu NAVEGADOR</h3>
+      <h3 align="center">Ciberseguridad Aeroespacial: El Riesgo del que Casi Nadie Habla
+</h3>
       <div align="center">
-        <a href="https://www.youtube.com/watch?v=r6FfaloFxKo&t=4s" target="_blank">
-          <img src="https://i.ytimg.com/vi/r6FfaloFxKo/mqdefault.jpg" width="400" alt="La OSCURA realidad DETRÁS de tu NAVEGADOR">
+        <a href="https://www.youtube.com/watch?v=a0KGAHy4tcc&t=5s" target="_blank">
+          <img src="https://i.ytimg.com/vi/a0KGAHy4tcc/mqdefault.jpg" width="400" alt="La OSCURA realidad DETRÁS de tu NAVEGADOR">
         </a>
         <p>Explicamos como un atacante puedo robarte todas las contraseñas del navegador.</p>
       </div>
