@@ -128,8 +128,8 @@ Me apasiona explorar áreas poco convencionales de la ciberseguridad, especialme
 
 ## 📂 Proyectos destacados
 
-- **[AeroSpace-Cybersecurity--ESP](https://github.com/Tuch0_/AeroSpace-Cybersecurity--ESP)**: Apuntes, herramientas y técnicas reales de seguridad espacial.
-- **[Cyberdeck Pi](https://www.instagram.com/p/DJkMPCBskRC/?img_index=1)**: Estación de pentesting portátil con SDR, ideal para entornos reales.
+- **[Tuch0-Docs](https://github.com/Tuch0/SMTPuser)**: Apuntes, herramientas y técnicas reales de seguridad espacial.
+- **[SMTPuser](https://github.com/Tuch0/SMTPuser)**: Estación de pentesting portátil con SDR, ideal para entornos reales.
 - **Writeups & Labs**: Máquinas de HTB, labs personalizados y retos tipo CTF satelital.
 
 ---
